@@ -1,0 +1,17 @@
+# Private user records
+data/users.txt
+
+# Java compiled files
+*.class
+*.jar
+build/
+out/
+target/
+
+# IDE settings
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
